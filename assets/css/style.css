@@ -16,6 +16,13 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
+.min-width {
+  width:150px; 
+  box-shadow:0 0 0 5px #169e9e,
+             0 0 0 10px #4A98C9,
+             0 0 0 25px #5CBF8F; 
+  }
+
 
 a {
   color: #4154f1;
